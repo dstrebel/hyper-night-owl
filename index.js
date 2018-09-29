@@ -5,7 +5,7 @@ exports.decorateConfig = config =>
     backgroundColor: "#011627",
     foregroundColor: "#d6deeb",
     borderColor: "rgba(126, 87, 194, 0.3)",
-    cursorColor: "#7e57c2",
+    cursorColor: "#ffffff",
     cursorAccentColor: "#ffffff",
     selectionColor: "rgba(248, 28, 229, 0.3)",
     colors: {
